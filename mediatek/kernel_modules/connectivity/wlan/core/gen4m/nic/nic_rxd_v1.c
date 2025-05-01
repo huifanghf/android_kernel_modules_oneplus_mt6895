@@ -73,7 +73,7 @@
 #include "precomp.h"
 #ifdef OPLUS_FEATURE_CONN_POWER_MONITOR
 //add for mtk connectivity power monitor
-#include "oplus_parse_package.h"
+#include "../oplus_wifi_power/oplus_parse_package.h"
 #endif /* OPLUS_FEATURE_CONN_POWER_MONITOR */
 /*******************************************************************************
  *                              C O N S T A N T S
